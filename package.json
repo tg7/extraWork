@@ -1,0 +1,16 @@
+{
+  "name": "sidework",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "start": "app.js",
+  "dependencies": {
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "todd",
+  "license": "ISC"
+}
